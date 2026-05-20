@@ -7,6 +7,21 @@ I also write the software that operates the company.
 
 ---
 
+## 🏆 Recognized work
+
+Four awards from Japanese national and municipal authorities — all for work I personally designed, built, and deployed.
+
+- **🥇 TOHOKU DX Award 2025 — Grand Prize, Solutions Division (Commissioner's Award)** · METI Tohoku Bureau · *Dec 2025*
+  Voice-input AI system letting elderly rice farmers submit pickup requests by speaking six fields into a phone. 1 of 20 nominees.
+- **🥇 Sendai X-TECH Innovation Award 2025 — Grand Prize, PBL Division** · City of Sendai · *Feb 2025*
+  Team-led industry–academia project: a world-first AI growth model for indoor lettuce factories using environment + image data.
+- **🥇 Sendai X-TECH Innovation Award 2024 — Grand Prize, Individual Category** · City of Sendai · *Mar 2024*
+  Self-built no-code growth-management app for an indoor lettuce factory.
+- **🏅 TOHOKU DX Award 2023 — Special Award from the Selection Committee** · METI Tohoku Bureau · *Dec 2023*
+  In-house DX of Japan's largest leafy-greens factory connecting production and sales with internally built systems.
+
+---
+
 ## What I build
 
 Over the past 18 months I've shipped **20+ production systems** as a solo builder (with Claude Code as an extra pair of hands). The work spans the entire operational stack of an agricultural business.
