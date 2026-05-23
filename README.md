@@ -1,7 +1,7 @@
 # Hi, I'm Keigo Yoshinaga 👋
 
-CEO of [Butai Farm](https://www.butaifarm.co.jp/) — a Japanese agricultural enterprise running rice production, B2B cut-vegetable wholesale, food logistics, and an indoor lettuce factory.
-I also write the software that operates the company.
+Project Lead at the Future Strategy Department of [Butai Farm](https://www.butaifarm.co.jp/) — a Japanese agricultural enterprise (rice production, B2B cut-vegetable wholesale, food logistics, indoor lettuce factory).
+I lead in-house DX initiatives — and I'm also the one who writes the software.
 
 📍 Sendai, Japan ・ ✉️ keiggoo.0527@gmail.com
 
