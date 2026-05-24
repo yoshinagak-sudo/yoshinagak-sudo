@@ -75,4 +75,5 @@ The systems above weren't built to demo well — they were built because the com
 ## Get in touch
 
 - 📧 keiggoo.0527@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/%E5%9C%AD%E5%90%BE-%E5%90%89%E6%B0%B8-9666952a3/)
 - 🌐 [butaifarm.co.jp](https://www.butaifarm.co.jp/)
